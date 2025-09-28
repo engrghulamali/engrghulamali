@@ -57,7 +57,7 @@ I'm a **Senior Full-Stack Web Application Developer & DevOps Engineer** speciali
 
 ### **Cloud Platforms**
 <p align="left">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/aws-color.png" alt="aws" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/>
