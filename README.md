@@ -123,5 +123,5 @@ I'm a **Senior Full-Stack Web Application Developer & DevOps Engineer** speciali
 
 <div align="center">
   
-### 💡 "Transforming complexity into simplicity through code and cloud." 
+### 💡 Transforming complexity into simplicity through code and cloud.
 </div>
